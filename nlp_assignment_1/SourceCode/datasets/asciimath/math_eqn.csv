@@ -1,0 +1,21 @@
+Math_Eqns
+e^{2}\frac{b_0-\sin v}{R}
+"f_N, f_{N+1},f_{N+2},\ldots"
+"\textstyle{\sum_{n=1}^\infty f_n(x,\phi,\psi)}"
+\underset{n\to\infty}{\mathrm{unif\ lim}}f_n = f
+"x\in E, m\geq N,n\geq N\implies |f_m(x)-f_n(x)|&lt;\epsilon"
+"f_n\rightrightarrows f\iff \lim_{n\to\infty} d(f_n,f)= 0"
+"d(f,g)=||f-g||_{\infty}=\sup_{x\in X} |f(x)-g(x)|"
+\lim_{n\to\infty}||f_n-f||_{\infty}=0
+|f_N(x_0)-f(x_0)|=\Big|[(1/2)^{1/N}]^N-0\Big|=1/2&gt;\epsilon
+"\left| \frac{z^n}{n!}\right|\le M_n     , \forall z\in D_R"
+\int_I f = \lim_{n\to\infty}\int_I f_n
+x=\log_2 n \quad\Longleftrightarrow\quad 2^x=n.
+\log_2 n = \frac{\ln n}{\ln 2} = \frac{\log_{10} n}{\log_{10} 2}
+"\zeta(s)=s\int_1^\infty \frac{\lfloor x\rfloor}{x^{s+1}}\,dx"
+"df_p = \sum_{j=1}^n D_j f(p) \,(dx^j)_p"
+\quad x_i = x_0 + \frac{\alpha}{i}
+"\quad|x_0 - x_i| = \frac{\alpha}{i},\quad"
+"d_i := \min\{\|x_0 - \frac{k_i}{i}|,\ |x_0 - \frac{(k_i + 1)}{i}| \}"
+"x \in \mathbb{Q} \cap (x_0 - \delta, x_0 + \delta)"
+"(b_i = k_i/i)_{i=1}^\infty,"

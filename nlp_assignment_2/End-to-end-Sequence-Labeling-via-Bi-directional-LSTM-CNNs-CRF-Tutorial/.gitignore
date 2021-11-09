@@ -1,0 +1,6 @@
+.ipynb_checkpoints/*
+data/glove.6B.100d.txt
+data/glove.6B/
+data/glove.6B.zip
+
+
